@@ -20,7 +20,7 @@ https://github.com/mexists/ionic-fcm-starter/blob/master/TUTORIAL.md
 
 3 - Adicionar plugin FCM 
 
-	ionic plugin add cordova-plugin-fcm
+	ionic cordova plugin add cordova-plugin-fcm
 
 
 4 - Instalacao do bower 
