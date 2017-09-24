@@ -2,6 +2,8 @@ Porjeto ionic
 
 https://github.com/mexists/ionic-fcm-starter
 
+https://github.com/mexists/ionic-fcm-starter/blob/master/TUTORIAL.md
+
 
 1 - Instalacao : 
  
